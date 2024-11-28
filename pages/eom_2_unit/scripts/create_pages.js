@@ -55,8 +55,9 @@ function waitForData(){
                 };
                 // Если есть изображение, создаем и добавляем элемент изображения
                 if (item.image){
+                    console.log(item)
                     const imgContainer = document.createElement('div');
-                    imgContainer.className = 'img_with_sgn';
+                    imgContainer.className = `img_with_sgn image_of_page_${currentPageIndex}_${item.index}`;
                     if(item.left_img){
                         imgContainer.classList.add('left_img'); 
                     }

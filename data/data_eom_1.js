@@ -20,8 +20,8 @@ window.dataLoaded = false;
     ]; // если typeOfButtons = 'video'
     let pathToVideo = './content/page_content/video_content.mp4'; // если typeOfButtons = 'video'
     let pathToVideo2 = './content/page_content/video_content2.mp4'; // если typeOfButtons = 'video'
-    let videoTitle2 = 'Видеолекция "Организация ремонтной службы предприятия" Часть 1'; // если typeOfButtons = 'video'
-    let videoTitle5 = 'Видеолекция "Организация ремонтной службы предприятия" Часть 2';
+    let videoTitle2 = 'Видеолекция «Организация ремонтной службы предприятия» Часть 1'; // если typeOfButtons = 'video'
+    let videoTitle5 = 'Видеолекция «Организация ремонтной службы предприятия» Часть 2';
     // В CSS должна быть к каждому id или class приписка "_custom", и закидываем их в файл "pages/eom_1_unit/styles/custom_pages.css"
     let customPage = ``; // В CSS должна быть к каждому id или class приписка "_custom", и закидываем их в файл "pages/eom_1_unit/styles/custom_pages.css"
     let background_type = dropType;

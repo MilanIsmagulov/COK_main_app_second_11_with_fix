@@ -171,7 +171,7 @@ table.iksweb td:first-child{
     overflow-y: auto;
 }
 .text2 p{
-    text-align: justify;
+    text-align: left;
     text-indent: 0%;
     font-size: clamp(18px, 1.5vw, 25px);
     margin: 0;
@@ -262,6 +262,14 @@ table.iksweb td:first-child{
     width: 100%;
     min-width: 500px;
     max-width: 500px;
+
+}
+.math_equation_text_vis{
+    text-wrap: nowrap !important;
+    font-size: clamp(18px, 1.5vw, 25px) !important;
+}
+.image_of_page_1_11 img{
+    min-height: 400px !important;
 }
 .mtmin50{
     margin-top: -80px;
