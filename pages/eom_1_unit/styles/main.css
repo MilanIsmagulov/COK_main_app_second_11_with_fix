@@ -583,7 +583,9 @@ p {
 .video_content > .content__litera_btn{
     margin: 25px;
 }
-
+details {
+    display: block; /* Обеспечивает корректное поведение в некоторых браузерах */
+}
 .video_div{
     display: flex !important;
     flex-direction: row !important;
