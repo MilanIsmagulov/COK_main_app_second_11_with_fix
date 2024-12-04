@@ -580,6 +580,7 @@ p {
     padding: 10px;
     width: 40%;
     height: 84%;
+    display: none;
 }
 .video_content > .content__litera_btn{
     margin: 25px;
@@ -759,6 +760,7 @@ body, html {
     font-size: clamp(20px, 1.6vw, 35px);
     font-weight: 700;
     height: 50px;
+    display: none;
 }
 .pink_subtitle {
     font-size: clamp(25px, 1.6vw, 35px);
