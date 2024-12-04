@@ -74,8 +74,12 @@
     height: 1px;
     background-color: black;
 }
+.math_equation_container_custom_1{
+    overflow: scroll;
+}
 .math_equation_container_custom{
     margin-top: 25px !important;
+    overflow: scroll;
     border: 2px solid #3cba94;
     width: 45% !important;
     margin: 0 auto;
@@ -98,6 +102,9 @@
 @media(max-width: 856px){
     .table_plc_custom{
         justify-content: space-evenly;
+    }
+    .math_equation_container_custom{
+        width: 100% !important;
     }
     .third_row_table_custom{
         justify-content: center;

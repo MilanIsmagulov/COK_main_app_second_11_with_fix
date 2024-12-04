@@ -823,7 +823,7 @@ const data = {
                 <br><br><b class='blue_header'>Например:</b><br><br>
                 <span class='math_equation'>$Т_{мрц}$</span> = 3600 маш-час;<br> <span class='math_equation'>$Т_{мрп}$</span> = 900 маш-час. При двухсменной работе машины и заданных <span class='math_equation'>$k_{маш}$</span> = 0,98;<br> <span class='math_equation'>$k_{кал}$</span> = 0,86 календарные циклы определяются
                 <div class='math_equation_container_custom_1'><p class='math_equation'>$$T_{мрпк}=\\frac{900}{240\\cdot 0,98\\cdot 0,86}=4,4\\quad месяца;\\quad T_{мрцк}=\\frac{3600}{240\\cdot 0,98\\cdot 0,86}=17,8\\quad месяцев;$$</p></div>
-                <b>График планово-предупредительного ремонта консольного насоса К65</b>
+                <br><br><b>График планово-предупредительного ремонта консольного насоса К65</b>
             `},
         ],
         "paragraph_2":[
