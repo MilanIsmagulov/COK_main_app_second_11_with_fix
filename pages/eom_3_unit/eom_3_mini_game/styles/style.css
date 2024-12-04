@@ -121,6 +121,7 @@ header h1 {
     width: auto;
 }
 .score_wrap {
+    margin: 25px !important;
     display: flex;
     margin-left: 150px;
     margin-top: 20px;
