@@ -130,6 +130,7 @@ p {
     display: flex !important;
     flex-direction: column !important;
     height: 100vh;
+    overflow-x: scroll;
 }
 #content {
     padding: 0em 5px 1.2em 1.2em;
@@ -900,6 +901,7 @@ body, html {
 .video_div {
     display: flex;
     flex-direction: column;
+    
 }
 .video_title {
     margin-top: 25px;
